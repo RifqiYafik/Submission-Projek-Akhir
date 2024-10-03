@@ -30,8 +30,8 @@ def classify_busy_quiet_hours(df):
     return df
 
 # Load data
-day_data_cleaned = pd.read_csv("day.csv")
-day_data_cleaned = pd.read_csv("hour.csv")
+day_data_cleaned = pd.read_csv("dashboard/day.csv")
+day_data_cleaned = pd.read_csv("dashboard/hour.csv")
 
 # Sidebar for filtering
 with st.sidebar:
