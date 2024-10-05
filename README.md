@@ -1,4 +1,4 @@
-# Dicoding Collection Dashboard ✨
+# Bike Sharing Dashboard ✨
 
 ## Setup Environment - Shell/Terminal
 
@@ -14,4 +14,5 @@ pip install -r requirements.txt
 
 ```
 streamlit run dashboard/bike_sharing_dashboard.py
+=======
 ```
